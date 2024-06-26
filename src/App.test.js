@@ -29,5 +29,3 @@ test('Initialize/Update Times', () => {
 
 })
 
-//add unit tests for the form input validation
-//add unit tests for the form submission validation
